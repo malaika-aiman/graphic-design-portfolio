@@ -1,22 +1,58 @@
-# ✨ Visual Diaries
-A creative showcase of graphic design work, logos, and promotional assets crafted on Canva.
----
-## 🎨 Featured Projects
 
-* **Savora (Brand Concept)** — Complete brand identity, logo, and visual assets.
-* **KicksX** — Futuristic dark-mode promotional flyer for a sneaker launch.
-* **Nestora** — Modern real estate branding and marketing assets.
-* **Malaika Logo** — Sleek typography and custom modern logo identity design.
-* **Maison Summer Sale** — Eye-catching promotional posters for seasonal fashion campaign.
-* **Course Poster** — Professional layout designed for academic presentations.
-* **YouTube Thumbnails** — High-CTR, eye-catching video thumbnails.
-* **Certificates** — Custom-designed professional completion certificates.
-* **Birthday Greetings** — Personalized, creative event invitation & card design.
-* **BlushUp Makeup** — A chic, warm-toned promotional banner design showcasing soft glam aesthetics and modern beauty branding.
-* **Headphone / Product Promotion** — Sleek audio product showcase and promotional banner design.
-* **Independence Day Banner** — Patriotic poster design celebrating Independence Day.
-* **Manager Business Card** — Professional business card design for management profiles.
-* **Social Media Follow Poster** — Creative call-to-action design for social media engagement.
-* **Brand Logo Design** — Minimalist and versatile custom logo design.
+<div align="center">
+
+# ✨ Visual Diaries
+
+**A collection of graphic design work, branding concepts and promotional visuals created with Canva.**
+
+</div>
+
 ---
-*Crafted with creativity by MALAIKA!*
+
+## Featured Design Work
+
+| # | Design | Description |
+|---|---|---|
+| 01 | **Savora** | Restaurant brand concept, logo and visual assets |
+| 02 | **KicksX** | Dark-mode sneaker promotional flyer |
+| 03 | **Nestora** | Real estate branding and marketing visuals |
+| 04 | **Malaika Logo** | Personal logo and typography exploration |
+| 05 | **Maison Summer Sale** | Seasonal fashion promotional designs |
+| 06 | **Course Poster** | Educational and academic poster design |
+| 07 | **YouTube Thumbnails** | Video thumbnail design practice |
+| 08 | **Certificates** | Professional certificate layout designs |
+| 09 | **Birthday Greetings** | Personalized greeting cards and invitations |
+| 10 | **BlushUp Makeup** | Beauty branding and promotional banner |
+| 11 | **Headphone Promotion** | Audio product promotional visual |
+| 12 | **Independence Day Banner** | Patriotic celebration design |
+| 13 | **Manager Business Card** | Professional business card layout |
+| 14 | **Social Media Follow Poster** | Social media engagement graphic |
+| 15 | **Brand Logo Design** | Minimalist logo design concepts |
+
+---
+
+## Design Focus
+
+- Branding and logo design
+- Promotional banners and posters
+- Social media graphics
+- Typography and visual hierarchy
+- Color palettes and layout composition
+
+## Tools
+
+**Canva**
+
+## About This Collection
+
+Visual Diaries showcases my graphic design practice, creative experiments and branding concepts. Each project helps me explore visual communication, layout and design consistency.
+
+---
+
+<div align="center">
+
+**Created by Malaika Aiman**
+
+*Designing with purpose. Creating with curiosity.*
+
+</div>
