@@ -25,9 +25,8 @@
 | 10 | **BlushUp Makeup** | Beauty branding and promotional banner |
 | 11 | **Headphone Promotion** | Audio product promotional visual |
 | 12 | **Independence Day Banner** | Patriotic celebration design |
-| 13 | **Manager Business Card** | Professional business card layout |
-| 14 | **Social Media Follow Poster** | Social media engagement graphic |
-| 15 | **Brand Logo Design** | Minimalist logo design concepts |
+| 13 | **Social Media Follow Poster** | Social media engagement graphic |
+| 14 | **Brand Logo Design** | Minimalist logo design concepts |
 
 ---
 
