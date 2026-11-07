@@ -3,6 +3,7 @@
 # ✨ Visual Diaries
 
 **A curated collection of graphic design work, brand identities, and promotional visuals.**
+div>
 
 ## 🎨 Featured Designs
 
