@@ -1,102 +1,67 @@
  <div align="center">
 
-<h1>VISUAL PORTFOLIO</h1>
+<h1><span style="color:#5B3FA0">GRAPHIC DESIGN</span> PORTFOLIO</h1>
 
-<h2>Graphic Design & Creative Work</h2>
+<h3><span style="color:#8B78C8">Creativity • Visual Identity • Design</span></h3>
 
 <p><strong>Turning Ideas Into Visual Stories.</strong></p>
 
-<p>A curated collection of graphic design projects exploring brand identity, promotional design, digital content, typography, and motion-based creatives.</p>
+<p>A collection of creative work exploring branding, promotional graphics, digital content, and video design.</p>
 
-<p>
-<a href="https://github.com/malaika-aiman">GitHub Profile</a>
-&nbsp; · &nbsp;
-<a href="https://github.com/malaika-aiman/graphic-design-portfolio">Repository</a>
-</p>
+<a href="https://github.com/malaika-aiman">GitHub Profile</a> &nbsp; | &nbsp; <a href="https://github.com/malaika-aiman/graphic-design-portfolio">Repository</a>
 
 </div>
 
 ---
 
-## About This Repository
+## <span style="color:#5B3FA0">01. Brand Identity & Logos</span>
 
-This repository showcases my creative work developed using Canva, covering a range of visual communication and graphic design concepts.
+- **SAVORA** — Restaurant logo and brand identity · [Logo](./01-SavoraLogo.png) · [Manager Card](./01-SavoraManagerCard.png) · [Pasta Banner](./01-SavoraPastaBanner.png)
+- **KicksX** — Sneaker brand visual · [View Design](./02-Kicksx.png)
+- **NESTORA** — Real estate branding · [View Design](./03-Nestore.png)
+- **Personal Logo** — Personal identity design · [View Design](./04-MalaikaLogo.png)
+- **Brand Logo** — Logo concept · [View Design](./14-BrandLogo.png)
 
-From logo creation and brand-focused graphics to promotional posters, social media creatives, and short video designs, each project reflects my exploration of visual composition, typography, color, and creative presentation.
+## <span style="color:#7655B5">02. Promotional & Marketing</span>
 
-## Design Portfolio
+- **Maison** — Fashion sale creative · [View Design](./05-Maison.png)
+- **BlushUp** — Beauty promotion · [View Design](./10-BlushUpMakeup.png)
+- **Headphone Promotion** — Product advertisement · [View Design](./11-HeadphonePromotion.png)
+- **Burger Poster** — Food advertising · [View Design](./15-BurgerPoster.png)
+- **Gym Poster** — Fitness promotion · [View Design](./16-GymPoster.png)
+- **Lipstick Poster** — Beauty product creative · [View Design](./17-LipstickPoster.png)
 
-### 01 — Brand Identity & Logo Design
+## <span style="color:#9279CC">03. Digital & Creative Graphics</span>
 
-| Project | Description | Design File |
-|---|---|---|
-| SAVORA Logo | Restaurant brand identity and logo concept | [View File](./01-SavoraLogo.png) |
-| SAVORA Manager Card | Branded business and manager card design | [View File](./01-SavoraManagerCard.png) |
-| SAVORA Pasta Banner | Restaurant food promotional banner | [View File](./01-SavoraPastaBanner.png) |
-| KicksX | Sneaker brand promotional visual | [View File](./02-Kicksx.png) |
-| NESTORA | Real estate branding and marketing visual | [View File](./03-Nestore.png) |
-| Personal Logo | Personal logo and typography exploration | [View File](./04-MalaikaLogo.png) |
-| Brand Logo | Minimal corporate logo concept | [View File](./14-BrandLogo.png) |
+- **Course Poster** — Educational design · [View Design](./06-CoursePoster.jpg)
+- **YouTube Thumbnail** — Digital content design · [View Design](./07-YouTubeThumbnail.png)
+- **Certificate** — Certificate layout · [View Design](./08-Certificate.png)
+- **Birthday Greeting** — Greeting card design · [View Design](./09-BirthdayGreeting.png)
+- **Independence Day Banner** — Celebration graphic · [View Design](./12-Independence%20dayBanner.png)
+- **Social Media Poster** — Social media creative · [View Design](./13-SocialMediaPoster.png)
 
-### 02 — Promotional & Marketing Design
+## <span style="color:#A58AE2">04. Video & Motion Creatives</span>
 
-| Project | Description | Design File |
-|---|---|---|
-| Maison Summer Sale | Fashion and seasonal sale promotion | [View File](./05-Maison.png) |
-| Headphone Promotion | Audio product advertisement | [View File](./11-HeadphonePromotion.png) |
-| Burger Poster | Food and fast-food promotional design | [View File](./15-BurgerPoster.png) |
-| Gym Poster | Fitness and workout promotion | [View File](./16-GymPoster.png) |
-| Lipstick Poster | Beauty product promotional design | [View File](./17-LipstickPoster.png) |
-| BlushUp Makeup | Beauty branding and promotional creative | [View File](./10-BlushUpMakeup.png) |
-
-### 03 — Digital & Creative Graphics
-
-| Project | Description | Design File |
-|---|---|---|
-| Course Poster | Educational and academic poster layout | [View File](./06-CoursePoster.jpg) |
-| YouTube Thumbnail | Video thumbnail design practice | [View File](./07-YouTubeThumbnail.png) |
-| Certificate | Certificate layout and presentation | [View File](./08-Certificate.png) |
-| Birthday Greeting | Personalized greeting card design | [View File](./09-BirthdayGreeting.png) |
-| Independence Day Banner | Patriotic celebration banner | [View File](./12-Independence%20dayBanner.png) |
-| Social Media Poster | Social media engagement graphic | [View File](./13-SocialMediaPoster.png) |
-
-### 04 — Video & Motion Creatives
-
-| Project | Description | Design File |
-|---|---|---|
-| Biryani | Food-themed video creative | [View Video](./18-BIRYANI.mp4) |
-| Cookie Mode | Dessert-themed video creative | [View Video](./19-CookieMode.mp4) |
-| Donuts | Food promotional video creative | [View Video](./20-Dounts.mp4) |
+- **Biryani** — Food-themed video · [Watch Video](./18-BIRYANI.mp4)
+- **Cookie Mode** — Dessert-themed video · [Watch Video](./19-CookieMode.mp4)
+- **Donuts** — Food promotional video · [Watch Video](./20-Dounts.mp4)
 
 ---
 
-## Creative Skills
+## <span style="color:#5B3FA0">Creative Skills</span>
 
-- **Brand Identity:** Logo concepts, brand presentation, and visual consistency.
-- **Promotional Design:** Posters, banners, product advertisements, and marketing visuals.
-- **Digital Content:** Social media graphics, thumbnails, and creative layouts.
-- **Typography:** Font selection, text hierarchy, and composition.
-- **Visual Storytelling:** Communicating ideas through color, layout, and imagery.
-- **Video Creatives:** Short-form promotional and food-themed visual content.
+Brand Identity · Logo Design · Promotional Graphics · Typography · Social Media Design · Visual Composition · Video Creatives
 
-## Design Tool
+## <span style="color:#7655B5">Design Tool</span>
 
-**Canva** — Primary tool used for creating and developing these graphic design projects.
-
----
-
-## Purpose
-
-This portfolio documents my graphic design learning journey, creative experimentation, and growing understanding of visual communication.
-
-I continue to explore new design approaches, improve my creative skills, and develop visuals with clarity and purpose.
+**Canva**
 
 ---
 
 <div align="center">
 
-**Created by Malaika Aiman**
+<h3><span style="color:#8B78C8">Designed with Creativity. Built with Passion.</span></h3>
 
-*Designing with purpose. Creating with curiosity.*
+**Malaika Aiman**
 
 </div>
