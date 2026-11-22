@@ -1,67 +1,67 @@
  <div align="center">
 
-<h1><span style="color:#5B3FA0">GRAPHIC DESIGN</span> PORTFOLIO</h1>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=165&color=0:0F1B33,50:2A2F6B,100:7055A5&text=VISUAL%20DIARIES&fontColor=F3EDFF&fontSize=40&fontAlignY=45&animation=twinkling&desc=GRAPHIC%20DESIGN%20%7C%20CREATIVE%20WORK&descSize=14&descAlignY=72" width="100%" alt="Visual Diaries banner">
 
-<h3><span style="color:#8B78C8">Creativity • Visual Identity • Design</span></h3>
+# Graphic Design Portfolio
 
-<p><strong>Turning Ideas Into Visual Stories.</strong></p>
+**Ideas into visuals. Creativity into design.**
 
-<p>A collection of creative work exploring branding, promotional graphics, digital content, and video design.</p>
-
-<a href="https://github.com/malaika-aiman">GitHub Profile</a> &nbsp; | &nbsp; <a href="https://github.com/malaika-aiman/graphic-design-portfolio">Repository</a>
+A collection of my creative work featuring branding, promotional graphics, digital designs, and video creatives — created using Canva.
 
 </div>
 
 ---
 
-## <span style="color:#5B3FA0">01. Brand Identity & Logos</span>
+## ✦ Featured Designs
 
-- **SAVORA** — Restaurant logo and brand identity · [Logo](./01-SavoraLogo.png) · [Manager Card](./01-SavoraManagerCard.png) · [Pasta Banner](./01-SavoraPastaBanner.png)
-- **KicksX** — Sneaker brand visual · [View Design](./02-Kicksx.png)
-- **NESTORA** — Real estate branding · [View Design](./03-Nestore.png)
-- **Personal Logo** — Personal identity design · [View Design](./04-MalaikaLogo.png)
-- **Brand Logo** — Logo concept · [View Design](./14-BrandLogo.png)
+### <span style="color:#9B82D9">01. Brand Identity & Logos</span>
 
-## <span style="color:#7655B5">02. Promotional & Marketing</span>
+- **SAVORA** — Restaurant branding and visual identity. [Logo](./01-SavoraLogo.png) · [Manager Card](./01-SavoraManagerCard.png) · [Pasta Banner](./01-SavoraPastaBanner.png)
+- **KicksX** — Sneaker promotional design. [View Design](./02-Kicksx.png)
+- **NESTORA** — Real estate branding. [View Design](./03-Nestore.png)
+- **Personal Logo** — Logo and typography exploration. [View Design](./04-MalaikaLogo.png)
+- **Brand Logo** — Minimal corporate logo concept. [View Design](./14-BrandLogo.png)
 
-- **Maison** — Fashion sale creative · [View Design](./05-Maison.png)
-- **BlushUp** — Beauty promotion · [View Design](./10-BlushUpMakeup.png)
-- **Headphone Promotion** — Product advertisement · [View Design](./11-HeadphonePromotion.png)
-- **Burger Poster** — Food advertising · [View Design](./15-BurgerPoster.png)
-- **Gym Poster** — Fitness promotion · [View Design](./16-GymPoster.png)
-- **Lipstick Poster** — Beauty product creative · [View Design](./17-LipstickPoster.png)
+### <span style="color:#A58AE2">02. Promotional & Marketing Design</span>
 
-## <span style="color:#9279CC">03. Digital & Creative Graphics</span>
+- **Maison** — Fashion sale creative. [View Design](./05-Maison.png)
+- **BlushUp** — Beauty promotional design. [View Design](./10-BlushUpMakeup.png)
+- **Headphone Promotion** — Product advertisement. [View Design](./11-HeadphonePromotion.png)
+- **Burger Poster** — Food promotion. [View Design](./15-BurgerPoster.png)
+- **Gym Poster** — Fitness promotion. [View Design](./16-GymPoster.png)
+- **Lipstick Poster** — Beauty product advertisement. [View Design](./17-LipstickPoster.png)
 
-- **Course Poster** — Educational design · [View Design](./06-CoursePoster.jpg)
-- **YouTube Thumbnail** — Digital content design · [View Design](./07-YouTubeThumbnail.png)
-- **Certificate** — Certificate layout · [View Design](./08-Certificate.png)
-- **Birthday Greeting** — Greeting card design · [View Design](./09-BirthdayGreeting.png)
-- **Independence Day Banner** — Celebration graphic · [View Design](./12-Independence%20dayBanner.png)
-- **Social Media Poster** — Social media creative · [View Design](./13-SocialMediaPoster.png)
+### <span style="color:#8B7BD8">03. Digital & Creative Graphics</span>
 
-## <span style="color:#A58AE2">04. Video & Motion Creatives</span>
+- **Course Poster** — Educational design. [View Design](./06-CoursePoster.jpg)
+- **YouTube Thumbnail** — Digital content creative. [View Design](./07-YouTubeThumbnail.png)
+- **Certificate** — Certificate layout. [View Design](./08-Certificate.png)
+- **Birthday Greetings** — Personalized greeting design. [View Design](./09-BirthdayGreeting.png)
+- **Independence Day** — Celebration banner. [View Design](./12-Independence%20dayBanner.png)
+- **Social Media Poster** — Social media creative. [View Design](./13-SocialMediaPoster.png)
 
-- **Biryani** — Food-themed video · [Watch Video](./18-BIRYANI.mp4)
-- **Cookie Mode** — Dessert-themed video · [Watch Video](./19-CookieMode.mp4)
-- **Donuts** — Food promotional video · [Watch Video](./20-Dounts.mp4)
+### <span style="color:#B39BEA">04. Video & Motion Creatives</span>
+
+- **Biryani** — Food promotional video. [Watch Video](./18-BIRYANI.mp4)
+- **Cookie Mode** — Dessert-themed video creative. [Watch Video](./19-CookieMode.mp4)
+- **Donuts** — Food promotional video. [Watch Video](./20-Dounts.mp4)
 
 ---
 
-## <span style="color:#5B3FA0">Creative Skills</span>
+## ✦ Creative Skills
 
-Brand Identity · Logo Design · Promotional Graphics · Typography · Social Media Design · Visual Composition · Video Creatives
+**Branding** · **Typography** · **Visual Composition** · **Marketing Graphics** · **Social Media Design** · **Video Creatives**
 
-## <span style="color:#7655B5">Design Tool</span>
+## ✦ Design Tool
 
-**Canva**
+**Canva** — My primary creative design tool.
 
 ---
 
 <div align="center">
 
-<h3><span style="color:#8B78C8">Designed with Creativity. Built with Passion.</span></h3>
+### Created by Malaika Aiman
 
-**Malaika Aiman**
+*Designing with purpose. Creating with curiosity.*
 
 </div>
